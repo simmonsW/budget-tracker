@@ -22,6 +22,7 @@ Project is created using:
 * Heroku
 
 ## **_Usage_**
+<img src="budget-tracker-screenshot.png" width="100%" />
 
 ## **_Installation_**
 Here are some guidelines for installing the project on your local machine in order to be able to try it: 
